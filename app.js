@@ -17,5 +17,5 @@ app.use(express.static('./public'));
 surveyController(app);
 
 // listen to port
-app.listen(3000);
-console.log('listening port 3000');
+app.listen(63342);
+console.log('listening port 63342');
