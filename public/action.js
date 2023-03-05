@@ -8,7 +8,7 @@ $(document).ready(function(){
 
         $.ajax({
             type: 'POST',
-            url: '/views/index.html',
+            url: '/views/index',
             data: $(this).serializeArray(),
             success: function(data){
                 // do something with the data via front-end framework
