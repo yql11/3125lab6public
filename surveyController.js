@@ -47,7 +47,7 @@ module.exports = function(app){
         var time = readData("time");
         var events = readData("events");
         var check = readData("check");
-        var library = readData("animal");
+        var library = readData("library");
         res.render('showResults', {results: [food, feelings, time, events, check, library]});
         console.log([food, feelings, time, events, check, library]);
     });
