@@ -1,18 +1,19 @@
 html {
-    background-color: #1cec0a;
+    background-color: #8f001a;
 }
 
 body {
-    background-color: #1cec0a;
+    background-color: #8f001a;
     width: 600px;
-    border: 20px solid #4d8c9f;
+    border: 2px solid #8f001a;
     padding: 0px 20px 20px 20px;
 
 }
 
 h1 {
+
     font-weight: 1000;
-    font-size: 10rem;
+    font-size: 5rem;
     line-height: 2rem;
     color: #ffffff;
     text-align:center
@@ -30,11 +31,62 @@ p {
 
 table {
     border: 1px solid black;
-    background-color: #a58888;
+    background-color: #ffffff;
 }
 
 .question {
-    background-color: #a58888;
+    background-color: #ffffff;
+    color: #000000;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px/10%;
+
+}
+
+.food {
+    background-color: #ffffff;
+    color: #000000;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px/10%;
+
+}
+.feelings {
+    background-color: #ffffff;
+    color: #000000;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px/10%;
+
+}
+
+.time {
+    background-color: #ffffff;
+    color: #000000;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px/10%;
+
+}
+
+.events {
+    background-color: #ffffff;
+    color: #000000;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px/10%;
+
+}
+.check {
+    background-color: #ffffff;
+    color: #000000;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 50px/10%;
+
+}
+.Library {
+    background-color: #ffffff;
     color: #000000;
     margin: 20px;
     padding: 20px;
@@ -46,7 +98,7 @@ table {
     display: block;
     width: 100%;
     border: none;
-    background-color: #a58888;
+    background-color: #ffffff;
     padding: 14px 28px;
     font-size: 26px;
     cursor: pointer;
